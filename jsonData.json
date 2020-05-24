@@ -1,0 +1,25 @@
+{
+    "player":{
+        "name": "Player name",
+        "HP": 3000,
+        "MP": 200,
+        "AP": 10.20,
+        "inventory": [
+            {
+                "id": 1,
+                "name": "Спички",
+                "count": 1
+            },
+            {
+                "id": 2,
+                "name": "Зажигалка",
+                "count": 1
+            },
+            {
+                "id": 3,
+                "name": "Жевачка",
+                "count": 3
+            }
+        ]
+    }
+}
